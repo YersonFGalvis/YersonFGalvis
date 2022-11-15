@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning **NestJs**
 
 - 📫 How to reach me **YersonGalvis03@gmail.com**
-- 
+- <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp;
+
 <p align="left">
 </p>
 
