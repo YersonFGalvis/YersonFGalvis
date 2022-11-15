@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yerson Galvis</h1>
+<h1 align="center">Hi 👋, I'm Yerson Galvis </h1>
 <h3 align="center">A passionate Back-end Developer</h3>
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **NestJs** :suspect:
 
 - 📫 How to reach me **YersonGalvis03@gmail.com**
-- <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+- <a href="https://www.linkedin.com/in/yerson-galvis-972337243/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> My LinkedIn :bowtie:
   </a> &nbsp;
 
 <p align="left">
