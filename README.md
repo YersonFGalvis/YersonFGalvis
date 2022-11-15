@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yerson Galvis </h1>
+<h1 align="center">Hi :metal:, I'm Yerson Galvis </h1>
 <h3 align="center">A passionate Back-end Developer</h3>
 
 - 🌱 I’m currently learning **NestJs** :suspect:
 
-- 📫 How to reach me **YersonGalvis03@gmail.com**
+- 📫 How to reach me **YersonGalvis03@gmail.com** :point_left:
 - <a href="https://www.linkedin.com/in/yerson-galvis-972337243/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> My LinkedIn :bowtie:
   </a> &nbsp;
